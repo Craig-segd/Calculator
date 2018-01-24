@@ -1,0 +1,9 @@
+.Screen {
+    height: 40px;
+    border: 1px solid black;
+    line-height: 70px;
+    width: 298px;
+    height: 70px;
+    overflow: auto;
+    font-size: 50px;
+}

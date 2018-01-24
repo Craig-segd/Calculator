@@ -1,0 +1,12 @@
+.Button {
+    border: 1px solid black;
+    height: 100px;
+    width: 100px; 
+    outline: none;
+    font-size: 30px;
+}
+
+.Button:active {
+    background-color: white;
+}
+

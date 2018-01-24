@@ -1,0 +1,28 @@
+.Operations {
+    display: flex;
+    justify-content: center;
+}
+
+.Equals {
+    background-color:green;
+    width: 50px;
+    outline: none;
+    border: 1px solid black;
+    font-size: 30px !important;
+}
+
+.Equals:active {
+    background-color: limegreen;
+}
+
+.Cancel {
+    background-color: red;
+    width: 50px;
+    outline: none;
+    border: 1px solid black;
+    font-size: 25px !important;
+}
+
+.Cancel:active {
+    background-color:salmon;
+}
